@@ -12,7 +12,7 @@
 - [Hamilcer][10] **Let's do it**  
 - [Helter Jay] (https://github.com/HelterJay) **My first Contribution!**
 - [Aditya Pandey][11]
-- [https://github.com/pseudo-ra-bar][12] Just hello worlding…
+- [Pseudo Ra Bar][12] Just hello worlding…
 - [Raphael Adesegun][13] \*\*Hi, Go is my love language. Glad to be making my first ever contribution!
 - [Rameel Haroon][14] **UwU**
 - [Vasley Mus][15] **My first open source contribution**
